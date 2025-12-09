@@ -5,7 +5,7 @@
             <img src="https://raw.githubusercontent.com/j0hn/clubdelaire/refs/heads/main/grupo.png" style="width: 180px;margin: 0 auto;display: block;" />
             <div style="font-size: 13px; padding: 10px;">
                 Bienvenidos al <b>Campeonato Cordobés de Distancia.</b><br />
-                Esta es la plataforma donde estaremos dando seguimiento al certamen, subiremos los vuelos y la utilizaremos para generar el ranking.
+                Esta es la plataforma donde estaremos dando seguimiento al certamen, subiremos los vuelos y utilizaremos para generar el ranking.
             </div>
             <hr style="margin: 15px 0; border: 0; border-top: 1px solid #fa9635;" />
             <div>
@@ -21,7 +21,7 @@
                     </li>
                     <li style="margin-bottom: 5px;">
                         <div><strong>Compartir vuelos, conocimiento y experiencia</strong></div>
-                        <div>Aprendemos en comunidad, compartiendo nuestras experiencias de cada vuelo.</div>
+                        <div>Aprendemos en comunidad.</div>
                     </li>
                 </ol>
             </div>
@@ -41,10 +41,96 @@
         </div>
     </CONTENT>
     <CONTENT for="/clubdelaire/reglamento/">
-        <div>
-            <span> un monton de texto aca que especifica las reglas de que es lo que tenemos que
-                hacer y que no tenemos que hacer para ser los mejores del mundo y campeones de este
-                concurso y todo el universo parapentistico y volador mundial del aire</span>
+        <div style="padding: 5px;">
+            <h2 style="margin-bottom: 15px;">Reglas del Campeonato</h2>
+            <ol>
+                <li style="margin-bottom: 5px;">
+                    <strong>Período</strong>
+                    <div>Se contabilizan todos los vuelos realizados entre el <b>1 de octubre y el 30 de septiembre de 2026.</b></div>
+                </li>
+                <li style="margin-bottom: 5px;">
+                    <strong>Vuelos anteriores dentro de la temporada</strong>
+                    <div>Se podrán cargar vuelos retroactivos realizados desde el <b>1 de octubre de 2025</b>, siempre que sean cargados <b>hasta el 31 de diciembre.</b></div>
+                </li>
+                <li style="margin-bottom: 5px;">
+                    <strong>Despegues habilitados</strong>
+                    <div>Serán válidos los vuelos que despeguen desde:<div>
+                    <ul>
+                        <li>Cualquier sitio de la provincia de Córdoba</li>
+                        <li>Merlo</li>
+                        <li>Carpintería</li>
+                    </ul>
+                </div></div></li>
+                <li style="margin-bottom: 5px;">
+                    <strong>Plataforma oficial</strong>
+                    <div>
+                        Todos los vuelos deben cargarse en: https://xcontest.org. <br />
+                        No se tomarán vuelos cargados en otras plataformas.
+                    </div>
+                </li>
+                <li style="margin-bottom: 5px;">
+                    <strong>Categorías</strong>
+                    <div>Se tendrá en cuenta un ranking por categoría.<div>
+                    <div>Cada piloto competirá dentro de las categorías que comprenden la homologación de su vela:</div>
+                    <ul>
+                        <li>PG Open – Todas las homologaciones, sin restricción</li>
+                        <li>PG Serial – Velas EN-D o inferiores</li>
+                        <li>PG Sport – Velas EN-C o inferiores</li>
+                        <li>PG Standard – Velas EN-B o inferiores</li>
+                        <li>PG Tandem – Vuelos realizados en parapente biplaza</li>
+                        <li>Femenina</li>
+                    </ul>
+                </div></div></li>
+                <li style="margin-bottom: 5px;">
+                    <strong>Ranking</strong>
+                    <div>El ranking se compondrá con los mejores 7 vuelos de cada piloto, según puntaje OLC.</div>
+                </li>
+                <li style="margin-bottom: 5px;">
+                    <strong>Sistema de puntuación</strong>
+                    <div>El puntaje de cada vuelo es el resultado de los kilómetros realizados multiplicados por los siguientes factores:</div>
+                    <ul>
+                        <li>Distancia libre → Factor 1.0</li>
+                        <li>Triángulo libre → Factor 1.2</li>
+                        <li>Triángulo FAI → Factor 1.4</li>
+                    </ul>
+                    <div>Se considera cerrado el triángulo si el inicio y fin del mismo están dentro del 20% de la distancia total.</div>
+                </li>
+            </ol>
+            <br />
+            <div style="padding: 5px;">
+                <h2 style="margin-bottom: 15px;">Ganadores y Menciones</h2>
+                <div>Se premiará a:</div>
+                <ul>
+                    <li>Los tres pilotos que más puntos hayan sumado en OPEN.</li>
+                    <li>El mejor piloto de cada categoría</li>
+                </ul>
+            </div>
+            <div>
+                <strong>Menciones especiales:</strong>
+                <ul>
+                    <li>Mejor vuelo de la temporada (mayor puntaje)</li>
+                    <li>Mayor distancia de la temporada (más kilómetros recorridos)</li>
+                    <li>Mejor vuelo en biplaza</li>
+                    <li>Piloto revelación (mayor progresión respecto a su temporada anterior)</li>
+                    <li>Mejor vuelo en equipo (mejor puntaje realizado por dos o más pilotos siguiendo la misma ruta)</li>
+                    <li>Mejor vuelo Hike &amp; Fly</li>
+                    <li>Mejor Piano</li>
+                </ul>
+                <div>Los premios serán simbólicos y representarán el esfuerzo, dedicación y progresión demostrados a lo largo de la temporada.</div>
+            </div><br />
+            <div>
+                <strong>Menciones especiales:</strong>
+
+            </div>
+            <div style="padding: 5px;">
+                <h2 style="margin-bottom: 15px;">Inscripción y Participación</h2>
+                <div>
+                    Para inscribirse deben iniciar sesión en xcontest.org e ingresar al siguiente link 
+                    <a href="https://www.xcontest.org/clubdelaire/darse-de-alta/">https://www.xcontest.org/clubdelaire/darse-de-alta/</a>
+                    El costo de inscripción es gratuito para pilotos socios del “Club del Aire” y un costo de $5.000 o el equivalente a
+                    €3 al cambio oficial al día de inscripción para no socios del club.
+                </div>
+            </div>
         </div>
     </CONTENT>
 </INC-CONTENTS>
