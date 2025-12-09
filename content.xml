@@ -1,13 +1,50 @@
 <INC-CONTENTS for="https://www.xcontest.org" created="2025-11-01 16:13:00">
-    <CONTENT for="/clubdelaire/" label="index">
-        <div>
-            <h1> Probando! </h1>
-            <span> contenido </span>
+    <CONTENT for="/clubdelaire/">
+        <div style="padding: 5px;">
+            <h2 style="margin-bottom: 10px;">Campeonato Cordobés de Distancia – Club del Aire</h2>
+            <img src="https://raw.githubusercontent.com/j0hn/clubdelaire/refs/heads/main/grupo.png" style="width: 180px;margin: 0 auto;display: block;" />
+            <div style="font-size: 13px; padding: 10px;">
+                Bienvenidos al <b>Campeonato Cordobés de Distancia.</b><br />
+                Esta es la plataforma donde estaremos dando seguimiento al certamen, subiremos los vuelos y la utilizaremos para generar el ranking.
+            </div>
+            <hr style="margin: 15px 0; border: 0; border-top: 1px solid #fa9635;" />
+            <div>
+                <h3>OBJETIVOS DEL CAMPEONATO</h3>
+                <ol>
+                    <li style="margin-bottom: 5px;">
+                        <div><strong>Fomentar el vuelo de distancia</strong></div>
+                        <div>Motivar a más pilotos a realizar XC, explorar rutas y mejorar la planificación de sus vuelos.</div>
+                    </li>
+                    <li style="margin-bottom: 5px;">
+                        <div><strong>Promover la progresión de cada piloto</strong></div>
+                        <div>El foco está en la evolución de cada piloto a lo largo de la temporada, no solo en los resultados absolutos.</div>
+                    </li>
+                    <li style="margin-bottom: 5px;">
+                        <div><strong>Compartir vuelos, conocimiento y experiencia</strong></div>
+                        <div>Aprendemos en comunidad, compartiendo nuestras experiencias de cada vuelo.</div>
+                    </li>
+                </ol>
+            </div>
+            <div>
+                <h3>INSCRIPCIÓN Y PARTICPACIÓN</h3>
+                <div style="padding: 10px;">
+                    Para inscribirse deben iniciar sesión en xcontest.org e ingresar al siguiente
+                    link <a href="https://www.xcontest.org/clubdelaire/darse-de-alta/"> https://www.xcontest.org/clubdelaire/darse-de-alta/</a> <br />
+                    El costo de inscripción es gratuito para pilotos socios del “Club del Aire” y un costo de $5.000 o el equivalente a €3 al 
+                    cambio oficial al día de inscripción para no socios del club.
+                </div>
+            </div>
+            <div>
+                <span>Organiza:</span><br />
+                <img src="https://raw.githubusercontent.com/j0hn/clubdelaire/refs/heads/main/club.png" style="width: 100px;" />
+            </div>
         </div>
     </CONTENT>
     <CONTENT for="/clubdelaire/reglamento/">
         <div>
-            <span> un monton de texto aca que especifica las reglas de que es lo que tenemos que hacer y que no tenemos que hacer para ser los mejores del mundo y campeones de este concurso y todo el universo parapentistico y volador mundial del aire</span>
+            <span> un monton de texto aca que especifica las reglas de que es lo que tenemos que
+                hacer y que no tenemos que hacer para ser los mejores del mundo y campeones de este
+                concurso y todo el universo parapentistico y volador mundial del aire</span>
         </div>
     </CONTENT>
 </INC-CONTENTS>
